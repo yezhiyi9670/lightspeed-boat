@@ -29,7 +29,7 @@ If `requireLevitating` is enabled, the first condition will be disabled.
 
 When under lightspeed state:
 
-- The drag (horizontal velocity decay) will be a constantly `lightspeedDrag` 0, unless the speed exceeds `maxLightspeed` 72.73.
+- The drag (horizontal velocity decay) will be constantly `lightspeedDrag` 0, unless the speed exceeds `maxLightspeed` 72.73.
 - If `allowPlayerDrive` is false, the player will not be able to drive the boat, but can still turn it.
 - If `allowPlayerTurn` is false, the player will not be able to turn the boat.
 
