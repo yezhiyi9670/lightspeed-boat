@@ -14,6 +14,8 @@ This mod brings the feature to Java Edition. Enjoy cool automatable fast travel 
 
 The figure above is an available design for accelerating boats. [Read more about Lightspeed Boat on Minecraft Wiki](https://minecraft.fandom.com/zh/wiki/%E6%95%99%E7%A8%8B/%E5%85%89%E9%80%9F%E8%88%B9).
 
+Note: By default, the mod has a protective measure that prevent the speed from exceeding 72.73m/s (the blue ice speed).
+
 ## Details
 
 Here are the mechanical details of the mod.
