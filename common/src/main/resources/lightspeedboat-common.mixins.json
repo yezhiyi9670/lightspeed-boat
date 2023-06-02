@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "yezhiyi9670.lightspeedboat.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "client": [
+  ],
+  "mixins": [
+    "MixinBoatEntity"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

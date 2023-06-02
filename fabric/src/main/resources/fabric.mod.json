@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "lightspeedboat",
+  "version": "${version}",
+  "name": "Lightspeed Boat",
+  "description": "The cool way to travel fast, now in Java Edition!",
+  "authors": [
+    "yezhiyi9670"
+  ],
+  "contact": {
+    "sources": "https://github.com/yezhiyi9670/lightspeed-boat"
+  },
+  "license": "MIT License",
+  "icon": "assets/lightspeedboat/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "yezhiyi9670.lightspeedboat.fabric.ExampleModFabric"
+    ]
+  },
+  "mixins": [
+    "lightspeedboat.mixins.json",
+    "lightspeedboat-common.mixins.json"
+  ],
+  "depends": {
+    "minecraft": ">=1.18.1"
+  }
+}

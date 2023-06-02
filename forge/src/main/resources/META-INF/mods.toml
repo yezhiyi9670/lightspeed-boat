@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[39,)"
+#issueTrackerURL = ""
+license = "MIT License"
+
+[[mods]]
+modId = "lightspeedboat"
+version = "${version}"
+displayName = "Lightspeed Boat"
+authors = "yezhiyi9670"
+description = '''
+The cool way for travel fast, now in Java Edition!
+'''
+#logoFile = ""
+
+[[dependencies.lightspeedboat]]
+modId = "forge"
+mandatory = true
+versionRange = "[39,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.lightspeedboat]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.1,)"
+ordering = "NONE"
+side = "BOTH"
