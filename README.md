@@ -12,7 +12,7 @@ This mod brings the feature to Java Edition. Enjoy cool automatable fast travel 
 
 ![](./img/horizontal.png)
 
-The figure above is an available design for accelerating boats. [Read more about Lightspeed Boat on Minecraft Wiki](https://minecraft.fandom.com/zh/wiki/%E6%95%99%E7%A8%8B/%E5%85%89%E9%80%9F%E8%88%B9).
+The figure above is an available design for accelerating boats. [Read more about Lightspeed Boat on Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E5%85%89%E9%80%9F%E8%88%B9).
 
 **WARNING: This mod must be present on both server and client, otherwise some server-client desync can occur.**
 
